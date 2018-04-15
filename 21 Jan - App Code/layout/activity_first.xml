@@ -24,6 +24,7 @@
         android:id="@+id/firstEditText"
         android:inputType="number"
         />
+    //change by Amjad
 
     <TextView
         android:layout_marginTop="20dp"
